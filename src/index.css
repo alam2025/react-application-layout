@@ -70,3 +70,7 @@ input[type="number"]::-webkit-inner-spin-button {
 .cancel-btn {
   @apply hover:bg-[#FFDFDC] py-2 px-4 text-red-500/80  duration-200 hover:text-red-500 rounded-md font-medium bg-[#fff2f0];
 } */
+
+.active {
+  @apply bg-gradient-to-r from-[#AB86FE] to-[#8C57FF];
+}
